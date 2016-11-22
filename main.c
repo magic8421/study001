@@ -7,6 +7,7 @@ int main(int argc, char **argv)
 	{
 		if (strcmp(argv[i], "-d") == 0)
 		{
+			// sb
 		}
 	}
 	printf("hello world\n");
